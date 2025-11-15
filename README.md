@@ -4,8 +4,8 @@ A curated collection of my favorite **websites, tools and resources** for develo
 
 ## Technical Interview Prep
 
-| Tool | Description | Link |
-|------|------------|------|
-| NeetCode | Courses & Roadmap | [Visit]([https://code.visualstudio.com/](https://neetcode.io/)) |
-| CodePath | Course | [Visit]([https://www.figma.com/](https://www.codepath.org/courses/tech-interview-prep)) |
+| Tool | Description |
+|------|------------|
+| [NeetCode]([https://code.visualstudio.com/](https://neetcode.io/)) | Roadmap & Courses |
+| [CodePath]([https://www.figma.com/](https://www.codepath.org/courses/tech-interview-prep)) | Course |
 
