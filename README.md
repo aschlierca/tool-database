@@ -4,4 +4,8 @@ A curated collection of my favorite **websites, tools and resources** for develo
 
 ## Technical Interview Prep
 
-| NeetCode | [Visit] (https://neetcode.io/) |
+| Tool | Description | Link |
+|------|------------|------|
+| VS Code | Code editor | [Visit](https://code.visualstudio.com/) |
+| Figma | Design tool | [Visit](https://www.figma.com/) |
+
