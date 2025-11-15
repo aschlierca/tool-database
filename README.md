@@ -12,7 +12,7 @@
 | Platform | Description |
 |----------|-------------|
 | [NeetCode](https://neetcode.io/) | interview problems |
-| [CodePath]((https://www.codepath.org/courses/tech-interview-prep)) | course |
+| [CodePath](https://www.codepath.org/courses/tech-interview-prep) | free course |
 
 
 
