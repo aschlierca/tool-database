@@ -6,6 +6,6 @@ A curated collection of my favorite **websites, tools and resources** for develo
 
 | Tool | Description | Link |
 |------|------------|------|
-| VS Code | Code editor | [Visit](https://code.visualstudio.com/) |
-| Figma | Design tool | [Visit](https://www.figma.com/) |
+| NeetCode | Courses & Roadmap | [Visit]([https://code.visualstudio.com/](https://neetcode.io/)) |
+| CodePath | Course | [Visit]([https://www.figma.com/](https://www.codepath.org/courses/tech-interview-prep)) |
 
