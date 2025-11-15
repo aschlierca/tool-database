@@ -1,6 +1,6 @@
 # tool-database
 ---
-A curated collection of my favorite **websites, tools and resources** for development, design, productivity and learning.
+#### A curated collection of my favorite **websites, tools and resources** for development, design, productivity and learning.
 ---
 
 ## 💻 Career
